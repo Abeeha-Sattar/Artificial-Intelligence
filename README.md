@@ -5,7 +5,7 @@ A repository for the course of Artificial Intelligence being offered at FAST - N
 2. Lecture Slides
 3. Past Exams (Without solutions! Solve it yourself!)
 4. Past Assignments (Again, solve it yourself!)
-5. Any codes that I've written for this course.
+5. Codes (if any) that I've written for this course.
 
 Please join the discord server for class discussions and sharing useful material between eachother!
 
