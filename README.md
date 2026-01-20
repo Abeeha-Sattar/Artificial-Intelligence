@@ -1,11 +1,12 @@
 # Artificial-Intelligence
 A repository for the course of Artificial Intelligence being offered at FAST - NUCES. It will contain the following resources:
 
-Reference Books
-Lecture Slides
-Past Exams (Without solutions! Solve it yourself!)
-Past Assignments (Again, solve it yourself!)
-Any codes that I've written for this course.
+1. Reference Books
+2. Lecture Slides
+3. Past Exams (Without solutions! Solve it yourself!)
+4. Past Assignments (Again, solve it yourself!)
+5. Any codes that I've written for this course.
+
 Please join the discord server for class discussions and sharing useful material between eachother!
 
 Discord invitation: https://discord.gg/8xRfYDbFw3
